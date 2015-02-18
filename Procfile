@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n lifty
+web: bin/hubot -a slack -n lifty
