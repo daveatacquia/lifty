@@ -23,7 +23,8 @@
     "hubot-youtube": "^0.1.2",
     "jsdom": "^3.1.1",
     "request": "^2.53.0",
-    "underscore": "^1.7.0"
+    "underscore": "^1.7.0",
+    "hubot-jira-lookup": "git://github.com/jivesoftware/hubot-jira-lookup.git"
   },
   "engines": {
     "node": "0.10.x"
